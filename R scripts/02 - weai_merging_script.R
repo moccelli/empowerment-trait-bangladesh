@@ -1,6 +1,7 @@
 # WEAI Bangladesh 
 # Occelli M. & Tufan H.
 # Script for assembling WEAI dataset after extracting the data with 01_weai_creation_indices file and the Stata dataprep code
+# For inquiries on the code, contact Martina Occelli (mo386@cornell.edu)
 
 # Set working directory
 dir <- "/Volumes/GoogleDrive/My Drive/!!CORNELL/BT eggplant/Input WEAI BIHS" # Change path according to your directory
