@@ -1,4 +1,4 @@
-# Women's empowerment and trait preferences among cereal and legume growers in Bangladesh
+# Empowered to choose? Exploring the relationship between women’s empowerment and crop trait preferences in Bangladesh
 ## This is the repository for the paper, containing data and codes. 
 
 #### <ins> Abstract of the paper <ins>
